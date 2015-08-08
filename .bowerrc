@@ -1,0 +1,6 @@
+{
+  "directory": "resources/bower",
+  "analytics": false,
+  "timeout": 120000,
+
+}
